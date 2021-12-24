@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\bin\Debug\opsystem.exe.config
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\bin\Debug\opsystem.exe
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\bin\Debug\opsystem.pdb
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\obj\Debug\opsystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\obj\Debug\opsystem.Form1.resources
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\obj\Debug\opsystem.Properties.Resources.resources
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\obj\Debug\opsystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\obj\Debug\opsystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\obj\Debug\opsystem.exe
+C:\Users\user\Desktop\lutfen\opsystem\opsystem\obj\Debug\opsystem.pdb
